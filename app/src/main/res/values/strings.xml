@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiDevicesCheckerClient</string>
+
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="mac">Mac</string>
+    <string name="call">Call</string>
+</resources>
